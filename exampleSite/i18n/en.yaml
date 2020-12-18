@@ -8,7 +8,7 @@
 - id: viewAllPost
   translation: Ver todas las publicaciones
 - id: share
-  translation: Share
+  translation: Compartir
 - id: aboutAuthor
   translation: About author
 - id: authorsPosts
