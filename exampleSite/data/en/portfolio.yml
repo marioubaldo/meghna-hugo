@@ -6,7 +6,8 @@ portfolio:
   - name: Descubrimiento
     image: ''
     image_webp: ''
-    categories: ''
+    categories:
+    - Descubrimiento
     content: ''
     link: ''
   - name: Fundacion
