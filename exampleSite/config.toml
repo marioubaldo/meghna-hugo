@@ -101,7 +101,7 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Nova Solutions Systems"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "/images/logo-nova.jpg"
