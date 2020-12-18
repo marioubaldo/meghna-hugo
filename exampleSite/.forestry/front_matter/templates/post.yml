@@ -22,5 +22,19 @@ fields:
   name: description
   label: description
   description: meta description
+- name: t
+  type: select
+  default: ''
+  config:
+    required: true
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: t
+  showOnly:
+    field: t
 pages:
 - exampleSite/content/english/blog/fundacion.20191203072044
