@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Biblioteca Práctica
   portfolio_item:
+  - name: Fundacion
+    image: ''
+    image_webp: ''
+    categories:
+    - fundacion
+    content: ''
+    link: ''
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
