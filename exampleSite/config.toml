@@ -14,7 +14,7 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "Practicas"
+name = "Biblioteca"
 pre = "#"
 url = "portfolio"
 weight = 3
