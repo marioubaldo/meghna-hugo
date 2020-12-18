@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Biblioteca Práctica
   portfolio_item:
+  - name: Entrega
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
   - name: Opciones
     image: ''
     image_webp: ''
