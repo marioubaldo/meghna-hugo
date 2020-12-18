@@ -2,7 +2,7 @@ baseURL = "https://examplesite.com"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "2"
-summaryLength = "15"
+summaryLength = "2"
 theme = "meghna-hugo"
 themesDir = "../.."
 title = "Web Interna Nova"
@@ -125,6 +125,8 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = ""
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
