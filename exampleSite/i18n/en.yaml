@@ -17,7 +17,7 @@
   translation: Todo
 - id: about
   translation: Acerca de Nosotros
-- id: servicios
+- id: services
   translation: Servicios
 - id: portfolio
   translation: Portafolio
